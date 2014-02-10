@@ -1,0 +1,13 @@
+/org
+/de
+/olat.local.properties
+/ApplicationResources.properties
+/database
+/infinispan-config.xml
+/interwiki.properties
+/jamwiki-configuration.xml
+/jamwiki.properties
+/log4j.readme
+/package.html
+/serviceconfig
+/velocity
